@@ -1,0 +1,13 @@
+def longest_length(list ):
+
+  longest=0
+  for words in list.split():
+    if len(words)>longest
+      longest = len(words)
+      longest_word = words
+      
+  print("the longest word is", longest_word, "with length", len(longest--word))
+  
+print(longest_lengt(['shakir','aquib','rabiyaa']))
+  
+    

@@ -1,0 +1,8 @@
+ERROR  : 16:11:30: Error: Error connecting to the server: FATAL:  Peer authentication failed for user "postgres"
+
+ERROR  : 16:11:49: Error: Error connecting to the server: FATAL:  Peer authentication failed for user "postgres"
+
+ERROR  : 16:12:05: Error: Error connecting to the server: FATAL:  password authentication failed for user "postgres"
+FATAL:  password authentication failed for user "postgres"
+
+ERROR  : 16:21:31: Error: ERROR:  permission denied for relation pg_authid
